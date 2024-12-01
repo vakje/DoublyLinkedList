@@ -1,0 +1,6 @@
+﻿  driver.cpp
+C:\Users\pc1\source\repos\VakoStructures(149,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\pc1\source\repos\VakoStructures(218,39): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\pc1\source\repos\VakoStructures(7,31): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\pc1\source\repos\VakoStructures(11,32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  newproecti.vcxproj -> C:\Users\pc1\source\repos\VakoStructures#3\x64\Debug\newproecti.exe
